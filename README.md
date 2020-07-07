@@ -11,15 +11,16 @@ We are releasing TIP38(Thermal Image Posture 38 class) yoga posture image datase
 ![](architecture.png)
 
 
-Custom loss : 
+## Custom loss : 
+```
  $ L= sum from {i=1} to {N} {{α left (1- {widehat {y}} rsub {i} right )} ^ {β} { y} rsub {i } log left ({{y} rsub {i}} over {{widehat {y}} rsub {i}} right )} $
-
+```
 
 
 # Our paper
 
 If you found this repository useful, please cite our paper
-
+```
 @InProceedings{Munhjargal_2020_ICIP,
   author = {Munkhjargal Gochoo, Tan-Hsu Tan, Fady Alnajjar, Jun-Wei Hsieh, and Ping-Yang Chen},
   title = {Lownet: privacy preserved Ultra-Low Resolution Posture Image Classification},
@@ -27,3 +28,4 @@ If you found this repository useful, please cite our paper
   month = {Oct},
   year = {2020}
 }
+```
