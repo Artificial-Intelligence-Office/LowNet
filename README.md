@@ -12,8 +12,9 @@ We are releasing TIP38(Thermal Image Posture 38 class) yoga posture image datase
 
 
 Custom loss : 
+```
  $ L= sum from {i=1} to {N} {{α left (1- {widehat {y}} rsub {i} right )} ^ {β} { y} rsub {i } log left ({{y} rsub {i}} over {{widehat {y}} rsub {i}} right )} $
-
+```
 
 
 # Our paper
