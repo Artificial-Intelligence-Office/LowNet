@@ -20,9 +20,11 @@ We are releasing TIP38(Thermal Image Posture 38 class) yoga posture image datase
 <!--
 ![](big_img_64x64.jpg)
 -->
-![](big_img_64x64_2_20.jpg)
-#### 16x16 img
-![](big_img_16x16_2_20.jpg)
+#### 64x64 resolution images
+<img src="big_img_64x64_2_20.jpg" width=1000 class="center">
+
+#### 16x16 resolution images
+<img src="big_img_16x16_2_20.jpg" width=1000 class="center">
 <!--
 ![](big_img_16x16.jpg)
 -->
