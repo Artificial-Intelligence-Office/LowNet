@@ -4,9 +4,9 @@ Implementation of our ICIP 2020 paper "Lownet: privacy preserved Ultra-Low Resol
 
 In this project, we created LowNet architecture, which is suitable for low resolution image classification. 
 We are releasing TIP38(Thermal Image Posture 38 class) yoga posture image dataset captured by thermal camera.
-
-<img src="architecture.png" width="600" class="center" >
-
+<p align = "center">
+<img src="architecture.png" width="600" >
+</p>
 <!--
 ![](architecture.png 60x20)
 -->
