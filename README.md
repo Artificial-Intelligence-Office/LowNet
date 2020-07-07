@@ -19,7 +19,7 @@ Custom loss :
 # Our paper
 
 If you found this repository useful, please cite our paper
-'''
+```
 @InProceedings{Munhjargal_2020_ICIP,
   author = {Munkhjargal Gochoo, Tan-Hsu Tan, Fady Alnajjar, Jun-Wei Hsieh, and Ping-Yang Chen},
   title = {Lownet: privacy preserved Ultra-Low Resolution Posture Image Classification},
@@ -27,4 +27,4 @@ If you found this repository useful, please cite our paper
   month = {Oct},
   year = {2020}
 }
-'''
+```
