@@ -12,6 +12,13 @@ We are releasing TIP38(Thermal Image Posture 38 class) yoga posture image datase
 -->
 
 ## Custom loss : 
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;
+       L= \sum_{i=1}^{N} {{α * (1- {widehat {y}} rsub {i} right )} ^ {β} { y} rsub {i } *\log ({{y} rsub {i}} over {{widehat {y}} rsub {i}} right )} " " />
+
+
 ```
  $ L= sum from {i=1} to {N} {{α left (1- {widehat {y}} rsub {i} right )} ^ {β} { y} rsub {i } log left ({{y} rsub {i}} over {{widehat {y}} rsub {i}} right )} $
 ```
