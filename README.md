@@ -50,6 +50,11 @@ We trained our model with different losses. Lownet model with our custom loss fu
 </p>
 
 Trained other SOTA models on our dataset and compared our LowNet model with these models. Our model performed better.
+<p align = "center">
+<img src="images/sota.png" width="500" >
+</p>
+
+
 # Our paper
 
 If you found this repository useful, please cite our paper
