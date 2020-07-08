@@ -20,8 +20,9 @@ We are releasing TIP38(Thermal Image Posture 38 class) yoga posture image datase
        L= \sum_{i=1}^{N} {{α * (1- {widehat {y}} rsub {i} right )} ^ {β} { y} rsub {i } *\log ({{y} rsub {i}} over {{widehat {y}} rsub {i}} right )} " " />
 -->
 We created custom loss function by mixing focal loss and KLD( Kullback-Leibler Divergence) loss function.
+<p align = "center">
 <img src="images/Loss.png" width="500" >
-
+</p>
 
 ## Datasets
 
